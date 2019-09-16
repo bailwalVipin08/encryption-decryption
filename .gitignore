@@ -1,0 +1,8 @@
+# Default ignored files
+/.idea
+/out
+/EncryptionDecryption.iml
+/first.txt
+/firstDec.txt
+/firstEnc.txt
+*.class
